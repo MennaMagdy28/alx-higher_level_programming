@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def uppercase(str):
     for a in str:
-        if a > 96 and a < 123:
+        if int(a) > 96 and int(a) < 123:
             cnv = 32
         else:
             cnv = 0
