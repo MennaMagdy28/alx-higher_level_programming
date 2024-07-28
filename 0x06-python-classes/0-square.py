@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""class square"""
+"""Empty class square"""
 class Square:
     """empty class
     Args: no args
